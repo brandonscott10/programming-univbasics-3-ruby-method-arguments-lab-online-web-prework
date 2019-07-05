@@ -1,3 +1,3 @@
 #introduction
 #introduction(name)
-"Hi, my name is #{name}"
+put "Hi, my name is #{name}"
