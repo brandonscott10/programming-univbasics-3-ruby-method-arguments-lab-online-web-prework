@@ -1,2 +1,3 @@
-#introduction = name
-outputs "Hi, my name is #{name}"
+#introduction 
+expect (name)
+"Hi, my name is #{name}"
