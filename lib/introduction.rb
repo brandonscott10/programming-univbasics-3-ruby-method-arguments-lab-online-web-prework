@@ -1,3 +1,3 @@
 #introduction
-introduction(name)
+say introduction(name)
 "Hi, my name is #{name}"
