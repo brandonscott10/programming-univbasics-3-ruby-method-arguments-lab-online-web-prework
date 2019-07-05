@@ -1,2 +1,3 @@
-expect [introduction("brandon")]
-outputs "Hi, my name is #introduction"
+#introduction
+name = Brandon
+outputs "Hi, my name is #{name}"
